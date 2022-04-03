@@ -1,0 +1,29 @@
+
+
+.h1 {
+  color:blue;
+  text-align: center; 
+  text-decoration: overline;
+  padding: 10px 15px 20px 15px;
+  letter-spacing: 5px;
+  font-style: bold;
+
+}
+
+.h2 {
+    color: blue;
+    text-align: center;
+    padding: 8px 10px 15px 10px;
+    letter-spacing: 6px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.p {
+    color: maroon;
+    text-align: left;
+    padding: 8px 10px 12px 10px;
+    letter-spacing: 5px;
+    font-style: italic;
+    font-size: medium;
+}

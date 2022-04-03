@@ -1,0 +1,8 @@
+.h2 {
+    color: black;
+    padding: 15px 20px 15px 20px;
+    font-size: medium;
+    letter-spacing: 6px;
+    text-align: center;
+    border-style: dashed;
+}
